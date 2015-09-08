@@ -1,0 +1,5 @@
+/home/alexander/Workspace/Projects/crypter/crypter/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/alexander/Workspace/Projects/crypter/crypter/bin/Debug/crypter.exe.mdb
+/home/alexander/Workspace/Projects/crypter/crypter/bin/Debug/crypter.exe
+/home/alexander/Workspace/Projects/crypter/crypter/obj/x86/Debug/crypter.exe
+/home/alexander/Workspace/Projects/crypter/crypter/obj/x86/Debug/crypter.exe.mdb
